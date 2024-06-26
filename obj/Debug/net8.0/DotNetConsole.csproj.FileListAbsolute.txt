@@ -1,0 +1,14 @@
+C:\Users\jdaan\repos\DotNetConsole\bin\Debug\net8.0\DotNetConsole.exe
+C:\Users\jdaan\repos\DotNetConsole\bin\Debug\net8.0\DotNetConsole.deps.json
+C:\Users\jdaan\repos\DotNetConsole\bin\Debug\net8.0\DotNetConsole.runtimeconfig.json
+C:\Users\jdaan\repos\DotNetConsole\bin\Debug\net8.0\DotNetConsole.dll
+C:\Users\jdaan\repos\DotNetConsole\bin\Debug\net8.0\DotNetConsole.pdb
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.AssemblyInfoInputs.cache
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.AssemblyInfo.cs
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.dll
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\refint\DotNetConsole.dll
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.pdb
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\DotNetConsole.genruntimeconfig.cache
+C:\Users\jdaan\repos\DotNetConsole\obj\Debug\net8.0\ref\DotNetConsole.dll
